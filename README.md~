@@ -24,9 +24,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -37,14 +34,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p align="center">
-  
-    <img src="Pics/Ex1.png" width="320">
-    <img src="Pics/Ex2.png" width="320">
-    <img src="Pics/Ex3.png" width="320">
-    <img src="Pics/Ex4.png" width="320">
-</p>
-
+<a href = "https://www.youtube.com/watch?v=LRdJosiwYh8"><img src="Pics/Ex1.png" width="400"></a>
+<a href = "https://www.youtube.com/watch?v=LRdJosiwYh8"><img src="Pics/Ex2.png" width="400"></a>
+<a href = "https://www.youtube.com/watch?v=LRdJosiwYh8"><img src="Pics/Ex3.png" width="400"></a>
+<a href = "https://www.youtube.com/watch?v=LRdJosiwYh8"><img src="Pics/Ex4.png" width="400"></a>
 Detailed Expalaination about the working of the algorithm is provided in the <a href = "https://www.youtube.com/watch?v=LRdJosiwYh8"> YouTube Video </a> 
 ### Built With
 
