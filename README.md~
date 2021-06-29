@@ -40,20 +40,24 @@
 <a href = "https://www.youtube.com/watch?v=LRdJosiwYh8"><img src="Pics/Ex4.png" width="400"></a>
 Detailed Expalaination about the working of the algorithm is provided in the <a href = "https://www.youtube.com/watch?v=LRdJosiwYh8"> YouTube Video </a> 
 ### Built With
-
-
+ 
+Visualisation is built using graphics libarary of C++.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-
-
+In order to run the code type the following : 
+'''
+g++ pta_18MA20005_prog1.cpp -lgraph
+'''
+Next on running the output, first enter the number of sides of the Polygon , 
+then enter the coordinates one by one. For ex :
+'''
+Enter the coordinates of the polygon one by one and by adjacent sides: 0 0
+3 2
+3 10
+0 5
+'''
 <!-- CONTACT -->
 ## Contact
 
