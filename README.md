@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   
-    <img src="Pics/poly.png"  width="80" height="80">
+    <img src="Pics/poly.png" width="60">
   
 
   <h3 align="center">Polygon Triangulation</h3>
@@ -20,7 +20,7 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
+     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
@@ -37,10 +37,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://www.youtube.com/watch?v=LRdJosiwYh8)
-[![Product Name Screen Shot][product-screenshot2]](https://www.youtube.com/watch?v=LRdJosiwYh8)
-[![Product Name Screen Shot][product-screenshot3]](https://www.youtube.com/watch?v=LRdJosiwYh8)
-[![Product Name Screen Shot][product-screenshot4]](https://www.youtube.com/watch?v=LRdJosiwYh8)
+<p align="center">
+  
+    <img src="Pics/Ex1.png" width="320">
+<img src="Pics/Ex2.png" width="320">
+<img src="Pics/Ex3.png" width="320">
+<img src="Pics/Ex4.png" width="320">
+</p>
 
 Detailed Expalaination about the working of the algorithm is provided in the <a href = "https://www.youtube.com/watch?v=LRdJosiwYh8"> YouTube Video </a> 
 ### Built With
